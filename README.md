@@ -1,6 +1,12 @@
 # FlaskDantic
 união de duas lib, flask-restx e pydantic, para facilitar a criação de apis rest com python
 
+## Instalação
+```bash
+pip install fdantic
+```
+
+## Exemplo de uso
 ```python
 
 from flask import Flask
